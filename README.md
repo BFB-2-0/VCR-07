@@ -1,4 +1,6 @@
+<h1 align="center" style="color:#e63946;">
 🚑 LifeLane AI — Live Emergency Dashboard
+</h1>
 <p align="center"> <img src="https://img.shields.io/badge/System-Operational-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Emergencies-Active-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ambulances-En%20Route-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Assistant-Online-purple?style=for-the-badge"/> </p>
 
 <h1 style="color:#e63946;">🌍 Problem</h1>
