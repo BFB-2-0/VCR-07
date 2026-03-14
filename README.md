@@ -1,6 +1,5 @@
-🚑 LifeLane AI
-AI Powered Emergency Response & Mental Health Assistant
-<p align="center"> <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hackathon-Project-red?style=for-the-badge"/> </p> <p align="center"> <b>Reducing emergency response time with AI, real-time dashboards, and live ambulance tracking.</b> </p>
+🚑 LifeLane AI — Live Emergency Dashboard
+<p align="center"> <img src="https://img.shields.io/badge/System-Operational-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Emergencies-Active-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ambulances-En%20Route-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Assistant-Online-purple?style=for-the-badge"/> </p>
 
 🌍 Problem
 
@@ -32,20 +31,15 @@ AI-based mental health support
 
 By connecting users, responders, and intelligent assistance, the system ensures faster response and improved situational awareness.
 
-⚡ Core Features
-🚨 One-Tap Emergency Alert
+🚑 Emergency Response Snapshot
+| Metric                | Value     |
+| --------------------- | --------- |
+| Active Emergencies    | **3**     |
+| Ambulances Dispatched | **2**     |
+| Avg. Response Time    | **4 min** |
+| System Uptime         | **99.9%** |
 
-Users can trigger an emergency alert using a single button.
-
-Once activated, the system automatically sends:
-
-GPS location
-
-User identification
-
-Emergency signal
-
-This information is immediately transmitted to the backend server and displayed on the emergency dashboard.
+<p align="center"> <img src="https://img.shields.io/badge/Active%20Cases-3-red?style=flat-square"/> <img src="https://img.shields.io/badge/Avg%20ETA-3%20min-green?style=flat-square"/> <img src="https://img.shields.io/badge/Tracking-Real%20Time-blue?style=flat-square"/> </p>
 
 📡 Real-Time Emergency Dashboard
 
@@ -63,19 +57,23 @@ Dispatch monitoring
 
 All updates occur in real time, allowing responders to react immediately.
 
-🚑 Live Ambulance Tracking
 
-After dispatch, users can track the ambulance location through an interactive map interface.
+🚑 Live Ambulance ETA (Simulation)
 
-The system provides:
 
-Live ambulance movement
+Case ID: #204
+Location: Bengaluru
 
-Estimated arrival time
 
-Route tracking
+Ambulance: Unit A12
+Status: En Route
+Distance Remaining: 2.4 km
+Estimated Arrival Time: 3 minutes
 
-This feature reduces uncertainty and improves communication between responders and users.
+
+Route Status: Clear
+Dispatch Center: Active
+
 
 🧠 System Architecture
 
