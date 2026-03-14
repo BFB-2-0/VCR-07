@@ -142,19 +142,31 @@ Authorities dispatch an ambulance.
 
 The user tracks the ambulance until it arrives.
 
-🧩 Challenges
+<h2 style="color:#f4a261;"><b>🧩 Challenges</b></h2>
 
-While building the system, the team encountered several challenges:
+⚡ Real-Time Communication
 
-Implementing reliable real-time communication between systems
+Handling instant emergency alerts between users and dashboards required building a reliable real-time data pipeline.
 
-Integrating AI responses with emergency workflows
+📍 Accurate Location Tracking
 
-Designing an intuitive user interface for critical situations
+Integrating GPS tracking with map services to ensure reliable user location during emergencies.
 
-Handling accurate location tracking
+🧠 AI Integration
 
-🏆 Key Achievements
+Connecting an AI assistant capable of providing helpful responses during emotional distress situations.
+
+🎨 User Experience
+
+Designing a simple and fast interface that users can operate during high-stress emergency scenarios.
+
+🔗 System Integration
+
+Combining frontend, backend, AI services, and APIs into one seamless system.g
+
+
+<h2 style="color:#ff006e;"><b>🏆 Key Achievements</b></h2>
+
 | Achievement                   | Impact                           |
 | ----------------------------- | -------------------------------- |
 | 🚨 Emergency Alert Pipeline   | Instant SOS communication system |
@@ -162,30 +174,31 @@ Handling accurate location tracking
 | 🧠 AI Mental Health Assistant | Emotional support during crisis  |
 | 🚑 Ambulance Tracking         | Live location and ETA updates    |
 
+<h2 style="color:#3a86ff;"><b>📚 Lessons Learned</b></h2>
 
-📚 Lessons Learned
+⚡ Designing real-time communication systems
 
-Through this project, the team gained experience in:
+🧠 Integrating AI into practical applications
 
-Real-time system architecture
+📍 Implementing location-based services and tracking systems
 
-AI integration in web platforms
+🏗 Structuring scalable full-stack architecture
 
-Location-based service development
+🎨 Designing user-centered interfaces for emergency situations
 
-Designing emergency-focused user interfaces
+<h2 style="color:#8338ec;"><b>🔮 Future Improvements</b></h2>
 
-🔮 Future Improvements
+⌚ Smartwatch-based emergency triggers
 
-Future development could include:
+🎤 Voice-based distress detection
 
-Smartwatch-based emergency triggers
+🏥 Hospital and emergency network integration
 
-Voice-based distress detection
+🧠 AI predictive emergency analytics
 
-Integration with hospital networks
+🗺 Smart ambulance route optimization
 
-Predictive emergency analytics using AI
+📱 Full-feature mobile application expansion
 
 🤝 Team
 Role                                          	Contribution
