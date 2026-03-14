@@ -56,7 +56,7 @@ By connecting people, technology, and emergency services, LifeLane AI helps crea
 
 <p align="center"> <img src="https://img.shields.io/badge/Active%20Cases-3-red?style=flat-square"/> <img src="https://img.shields.io/badge/Avg%20ETA-3%20min-green?style=flat-square"/> <img src="https://img.shields.io/badge/Tracking-Real%20Time-blue?style=flat-square"/> </p>
 
-📡 Real-Time Emergency Dashboard
+<h2 style="color:#3a86ff;">📡 Real-Time Emergency Dashboard<h2/>
 
 The monitoring dashboard allows responders to view and manage emergencies as they occur.
 
